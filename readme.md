@@ -20,4 +20,4 @@ npm i
 npm run b
 ```
 
-It is same in React_Cesium_template. I provide a draw button in Vue template that draw an polygon with Geojson.
+It is same in React_Cesium_template. I provide a draw button in Vue template that draw a polygon with Geojson.

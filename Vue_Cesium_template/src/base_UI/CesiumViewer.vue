@@ -35,7 +35,8 @@ onMounted(() => {
   margin: 0;
   padding: 0;
 }
-:deep(cesium-widget-credits) {
+:deep(.cesium-widget-credits) {
   display: none !important;
+
 }
 </style>
